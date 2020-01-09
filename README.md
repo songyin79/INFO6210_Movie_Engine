@@ -28,5 +28,5 @@ Mission Objective
 5.	Develop a user-friendly Graphical User Interface design, allowing movie information to be retrieved, added, deleted, and modified via forms. 
 6.	Provide data visualizations to help data analysts better understand the data.
 
-Scope
+Scope: 
 The database will be built upon a 6000 unit plus dataset that was collected by imdb.com. The dataset ranges from 1986-2016 with 6820 movies included. The majority of movies in the dataset originates from the USA, with Comedy and Drama being the two most common genres in the dataset. 
